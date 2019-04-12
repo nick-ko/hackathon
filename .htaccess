@@ -1,0 +1,17 @@
+DirectoryIndex index.php
+RewriteEngine On
+RewriteRule ^home?$ index.php?page=home
+RewriteRule ^dashboard?$ index.php?page=dashboard
+RewriteRule ^course?$ index.php?page=course
+RewriteRule ^save_course?$ index.php?page=save_course
+
+
+
+
+
+
+
+
+
+
+

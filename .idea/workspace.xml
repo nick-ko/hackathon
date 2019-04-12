@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35aeb1df-40fd-4e5a-8249-565394eb271a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/course_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="183" column="48" lean-forward="true" selection-start-line="183" selection-start-column="48" selection-end-line="183" selection-end-column="48" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_functions/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <element signature="n#debug#0;n#!!top" />
+                <element signature="n#importVid#0;n#!!top" />
+                <element signature="n#retClass#0;n#!!top" />
+                <element signature="n#retColor#0;n#!!top" />
+                <element signature="n#retColorI#0;n#!!top" />
+                <element signature="n#retColorIx#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_controllers/course_controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_classes/Cours.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_controllers/home_controller.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/dashboard_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2691">
+              <caret line="117" column="65" lean-forward="true" selection-start-line="117" selection-start-column="65" selection-end-line="117" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_controllers/dashboard_controller.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>temps</find>
+      <find>quitter</find>
+      <find>null</find>
+      <find>scori</find>
+      <find>console</find>
+      <find>compi</find>
+      <find>getc</find>
+      <find>conso</find>
+      <find>compt</find>
+      <find>compte</find>
+      <find>mira</find>
+      <find>soumis</find>
+      <find>tenta</find>
+      <find>soumett</find>
+      <find>$itemValQuiz</find>
+      <find>subForm</find>
+      <find>Soumission</find>
+      <find>textea</find>
+      <find>form</find>
+      <find>pract</find>
+      <find>note</find>
+      <find>nouvelle</find>
+      <find>css-bar</find>
+      <find>vid</find>
+      <find>rest</find>
+      <find>navbar nav</find>
+      <find>soum</find>
+      <find>run</find>
+      <find>sub</find>
+      <find>dark</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/views/includes/php/savetime.php" />
+        <option value="$PROJECT_DIR$/views/includes/php/tent.php" />
+        <option value="$PROJECT_DIR$/views/includes/php/mira.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/editor_view.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/stage-cours.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/savetime.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/valid.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/result-stage.php" />
+        <option value="$PROJECT_DIR$/_classes/Html.php" />
+        <option value="$PROJECT_DIR$/_controllers/editor_controller.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/editor_controller.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/valid.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/editor_view.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/Html.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/sub.php" />
+        <option value="$PROJECT_DIR$/assets/controller.js" />
+        <option value="$PROJECT_DIR$/views/editor_view.php" />
+        <option value="$PROJECT_DIR$/_classes/Play.php" />
+        <option value="$PROJECT_DIR$/_controllers/ht_controller.php" />
+        <option value="$PROJECT_DIR$/assets/controller1.js" />
+        <option value="$PROJECT_DIR$/views/playground_view.php" />
+        <option value="$PROJECT_DIR$/views/php_view.php" />
+        <option value="$PROJECT_DIR$/views/play_view.php" />
+        <option value="$PROJECT_DIR$/views/ground_view.php" />
+        <option value="$PROJECT_DIR$/views/ht_view.php" />
+        <option value="$PROJECT_DIR$/_classes/Code.php" />
+        <option value="$PROJECT_DIR$/views/single_view.php" />
+        <option value="$PROJECT_DIR$/_controllers/single_controller.php" />
+        <option value="$PROJECT_DIR$/_classes/Practice.php" />
+        <option value="$PROJECT_DIR$/views/includes/code/editor1.php" />
+        <option value="$PROJECT_DIR$/views/includes/php/del1.php" />
+        <option value="$PROJECT_DIR$/views/includes/html/valid.php" />
+        <option value="$PROJECT_DIR$/_controllers/practice1_controller.php" />
+        <option value="$PROJECT_DIR$/views/includes/php/save.php" />
+        <option value="$PROJECT_DIR$/views/includes/php/fetch.php" />
+        <option value="$PROJECT_DIR$/views/includes/php/sub.php" />
+        <option value="$PROJECT_DIR$/views/practice1_view.php" />
+        <option value="$PROJECT_DIR$/_controllers/practice_controller.php" />
+        <option value="$PROJECT_DIR$/views/practice_view.php" />
+        <option value="$PROJECT_DIR$/views/includes/code/run1.php" />
+        <option value="$PROJECT_DIR$/views/includes/code/run.php" />
+        <option value="$PROJECT_DIR$/views/includes/code/editor.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/views/dashboard_view.php" />
+        <option value="$PROJECT_DIR$/_config/Database.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/_classes/Cours.php" />
+        <option value="$PROJECT_DIR$/_controllers/save_course_controller.php" />
+        <option value="$PROJECT_DIR$/views/course_view.php" />
+        <option value="$PROJECT_DIR$/_functions/functions.php" />
+        <option value="$PROJECT_DIR$/_controllers/course_controller.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="727" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackathon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackathon" type="462c0819:PsiDirectoryNode" />
+              <item name="_controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackathon" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackathon" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\nan_mvc\_classes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35aeb1df-40fd-4e5a-8249-565394eb271a" name="Default Changelist" comment="" />
+      <created>1542832849202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542832849202</updated>
+      <workItem from="1542832852421" duration="1760000" />
+      <workItem from="1543084966401" duration="55000" />
+      <workItem from="1543302006190" duration="17306000" />
+      <workItem from="1543344835818" duration="7305000" />
+      <workItem from="1543412248300" duration="3525000" />
+      <workItem from="1543876691165" duration="4964000" />
+      <workItem from="1543967145670" duration="38000" />
+      <workItem from="1544040565163" duration="4667000" />
+      <workItem from="1544271878723" duration="12847000" />
+      <workItem from="1544306787621" duration="1273000" />
+      <workItem from="1544362342815" duration="4898000" />
+      <workItem from="1544396131432" duration="595000" />
+      <workItem from="1544473977145" duration="3719000" />
+      <workItem from="1544632626440" duration="62000" />
+      <workItem from="1545422801252" duration="5416000" />
+      <workItem from="1545586918527" duration="13583000" />
+      <workItem from="1545655321296" duration="16832000" />
+      <workItem from="1545842744545" duration="4379000" />
+      <workItem from="1545925960291" duration="6957000" />
+      <workItem from="1546021441288" duration="20490000" />
+      <workItem from="1546108374143" duration="1931000" />
+      <workItem from="1546385514434" duration="3153000" />
+      <workItem from="1546465015133" duration="22717000" />
+      <workItem from="1546559403918" duration="31273000" />
+      <workItem from="1546691669625" duration="19180000" />
+      <workItem from="1546858132403" duration="24288000" />
+      <workItem from="1547027325711" duration="14731000" />
+      <workItem from="1547175584888" duration="342000" />
+      <workItem from="1547313829026" duration="604000" />
+      <workItem from="1547505005680" duration="2971000" />
+      <workItem from="1547595064602" duration="4636000" />
+      <workItem from="1547824842741" duration="37312000" />
+      <workItem from="1548019835569" duration="10943000" />
+      <workItem from="1548083251601" duration="34712000" />
+      <workItem from="1548204735711" duration="21651000" />
+      <workItem from="1548311508871" duration="18570000" />
+      <workItem from="1549711660101" duration="19449000" />
+      <workItem from="1549824820901" duration="13558000" />
+      <workItem from="1549850704832" duration="1866000" />
+      <workItem from="1549996258249" duration="21051000" />
+      <workItem from="1550168309100" duration="5490000" />
+      <workItem from="1550421549319" duration="437000" />
+      <workItem from="1551877000471" duration="3848000" />
+      <workItem from="1551963588630" duration="5199000" />
+      <workItem from="1552777836095" duration="531000" />
+      <workItem from="1554723788123" duration="421000" />
+      <workItem from="1554979811300" duration="2564000" />
+      <workItem from="1554982610723" duration="59000" />
+      <workItem from="1554982768584" duration="11711000" />
+      <workItem from="1555021582861" duration="5072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="470941000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13388805" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16717096" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/views/editor_view.php</url>
+          <line>764</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/_controllers/html_controller.php</url>
+          <line>81</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/_classes/Html.php</url>
+          <line>56</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/_classes/Html.php</url>
+          <line>78</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/_controllers/play_controller.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/views/php_view.php</url>
+          <line>573</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/Practice.php</url>
+          <line>65</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/views/ht_view.php</url>
+          <line>256</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/views/practice1_view.php</url>
+          <line>606</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/views/includes/code/run1.php</url>
+          <line>260</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/php_view.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/head.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/script.php" />
+    <entry file="file://$PROJECT_DIR$/views/ht_view.php" />
+    <entry file="file://$PROJECT_DIR$/views/ground_view.php" />
+    <entry file="file://$PROJECT_DIR$/_classes/Play.php" />
+    <entry file="file://$PROJECT_DIR$/views/html_view.php" />
+    <entry file="file://$PROJECT_DIR$/views/play_view.php" />
+    <entry file="file://$PROJECT_DIR$/_classes/Quiz.php" />
+    <entry file="file://$PROJECT_DIR$/views/single_view.php" />
+    <entry file="file://$PROJECT_DIR$/_classes/Code.php" />
+    <entry file="file://$PROJECT_DIR$/_controllers/single_controller.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/html/run.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/php/del.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/code/editor1.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/php/del1.php" />
+    <entry file="file://$PROJECT_DIR$/_classes/Html.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/php/mira.php" />
+    <entry file="file://$PROJECT_DIR$/views/editor_view.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/html/valid.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/php/tent.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/php/save.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/php/fetch.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/php/sub.php" />
+    <entry file="file://$PROJECT_DIR$/_controllers/editor_controller.php" />
+    <entry file="file://$PROJECT_DIR$/_controllers/practice1_controller.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/run1.php" />
+    <entry file="file://$PROJECT_DIR$/_controllers/practice_controller.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/code/editor.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/code/run1.php" />
+    <entry file="file://$PROJECT_DIR$/views/practice_view.php" />
+    <entry file="file://$PROJECT_DIR$/views/practice1_view.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/practice_controller.php" />
+    <entry file="file://$PROJECT_DIR$/_classes/Practice.php" />
+    <entry file="file://$PROJECT_DIR$/views/includes/code/run.php" />
+    <entry file="file://$PROJECT_DIR$/_config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home_view.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_classes/Autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_controllers/home_controller.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/dashboard_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2691">
+          <caret line="117" column="65" lean-forward="true" selection-start-line="117" selection-start-column="65" selection-end-line="117" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_controllers/dashboard_controller.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/home_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_classes/Cours.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_controllers/save_course_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/save_course_view.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="n#debug#0;n#!!top" />
+            <element signature="n#importVid#0;n#!!top" />
+            <element signature="n#retClass#0;n#!!top" />
+            <element signature="n#retColor#0;n#!!top" />
+            <element signature="n#retColorI#0;n#!!top" />
+            <element signature="n#retColorIx#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/course_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="183" column="48" lean-forward="true" selection-start-line="183" selection-start-column="48" selection-end-line="183" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_controllers/course_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
